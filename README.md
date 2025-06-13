@@ -6,6 +6,7 @@
 - [Technologies Used](#Technologies-Used)
 - [Database Schema](#Database-Schema)
 - [Project Setup Steps](#Project-Setup-Steps)
+- [Deployment to Azure App Service](#Deployment-to-Azure-App-Service)
 - [How-to-Use](#How-to-Use)
 - [Conclusion](#Conclusion)
   
@@ -87,6 +88,20 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
 8. Customize Login Page:
   Scaffolded the Login page using ApplicationDbContext.
+
+## Deployment to Azure App Service
+
+1. Right-click the project in Visual Studio and select Publish.
+
+2. Choose Azure > Azure App Service, then sign in with your Azure account.
+
+3. Create a new App Service or select an existing one, and click Finish.
+
+4. Click Publish to deploy the application to Azure.
+
+5. In the Azure Portal, go to the App Service > Configuration > Application Settings, and add the required connection string (e.g., DefaultConnection).
+
+6. Ensure the Azure SQL Database is updated using EF Core migrations or SQL scripts.
 
 ## How-to-Use:
 
