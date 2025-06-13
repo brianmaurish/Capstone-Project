@@ -3,6 +3,11 @@
 ## Table of Content
 - [Introduction](#introduction)
 - [Key Features](#Key-Features)
+- [Technologies Used](#Technologies-Used)
+- [Database Schema](#Database-Schema)
+- [Project Setup Steps](#Project-Setup-Steps)
+- [How-to-Use](#How-to-Use)
+- [Conclusion](#Conclusion)
   
 ## Introduction:
 
