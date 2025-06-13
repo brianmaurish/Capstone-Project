@@ -1,7 +1,8 @@
 # CustomerFeedbackPortal
 
 ## Table of Content
-- [Introductiont](#introduction)
+- [Introduction](#introduction)
+- [Key Features](#Key Features)
   
 ## Introduction:
 
