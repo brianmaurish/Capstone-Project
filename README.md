@@ -164,7 +164,7 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
   Confirm the deletion on the next page.
 
-## Conclusion
+## Conclusion:
 
 The CustomerFeedbackPortal provides a simple and secure way for customers to submit feedback and for admins to manage it.
 
