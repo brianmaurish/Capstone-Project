@@ -103,15 +103,15 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
 - Navigate to the "Submit Feedback" page (/Feedback/Create).
 
-- Fill in the form
+- Fill in the form:
 
--- Name: Enter your name.
+  Name: Enter your name.
 
-- Email: Enter your email address.
+  Email: Enter your email address.
 
-- Rating: Select a rating from 1 to 5.
+  Rating: Select a rating from 1 to 5.
 
-- Message: Write your feedback or comments.
+  Message: Write your feedback or comments.
 
 - Click "Create" to submit the feedback.
 
@@ -137,23 +137,23 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
 **View a Single Feedback (Admin)**
 
-The admin can view the details of a single feedback entry by entering the Feedback ID.
+- The admin can view the details of a single feedback entry by entering the Feedback ID.
 
-The admin can also enter the Feedback ID to edit or delete a specific feedback entry.
+- The admin can also enter the Feedback ID to edit or delete a specific feedback entry.
 
 **Admin Actions (Edit/Delete)**
 
-Edit Feedback:
+- Edit Feedback:
 
-On the feedback list page, click "Edit" next to a feedback entry (/Feedback/Edit/{id}).
+  On the feedback list page, click "Edit" next to a feedback entry (/Feedback/Edit/{id}).
 
-Update the fields and click "Save".
+  Update the fields and click "Save".
 
-Delete Feedback:
+- Delete Feedback:
 
-On the feedback list page, click "Delete" next to a feedback entry (/Feedback/Delete/{id}).
+  On the feedback list page, click "Delete" next to a feedback entry (/Feedback/Delete/{id}).
 
-Confirm the deletion on the next page.
+  Confirm the deletion on the next page.
 
 **Conclusion**
 
