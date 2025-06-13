@@ -105,7 +105,7 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
 - Fill in the form
 
-- Name: Enter your name.
+-- Name: Enter your name.
 
 - Email: Enter your email address.
 
