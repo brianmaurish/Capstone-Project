@@ -1,5 +1,8 @@
 # CustomerFeedbackPortal
 
+## Table of Content
+- [Introductiont](#introduction)
+  
 ## Introduction:
 
 The CustomerFeedbackPortal is a lightweight web application built to collect customer feedback and allow admins to manage it efficiently.
@@ -155,7 +158,7 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
   Confirm the deletion on the next page.
 
-**Conclusion**
+## Conclusion
 
 The CustomerFeedbackPortal provides a simple and secure way for customers to submit feedback and for admins to manage it.
 
