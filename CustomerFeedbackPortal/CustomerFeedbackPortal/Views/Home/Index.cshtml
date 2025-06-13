@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-color: cadetblue;
+    }
+
+    .home-container {
+        margin-top: 75px;
+        background-color: #f8f9fa;
+        padding: 50px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        text-align: center;
+    }
+
+    .home-heading {
+        font-weight: bold;
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .home-subheading {
+        font-size: 18px;
+        color: #555;
+        margin-bottom: 20px;
+    }
+
+    .home-paragraph {
+        font-size: 18px;
+        max-width: 800px;
+        margin: 0 auto 30px auto;
+    }
+
+    .btn-center {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+
+    .form-row {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 15px;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+        .form-row input {
+            flex: 1;
+        }
+
+        .form-row button {
+            width: 150px;
+        }
+</style>
+
+<div class="container home-container">
+    <h2 class="home-heading">Customer Feedback Portal</h2>
+
+    <p class="home-subheading">
+        Your voice matters! 🎤 Help us improve by sharing your experiences. 💬
+    </p>
+
+    <p class="home-paragraph">
+        Whether you're an administrator managing the portal or a customer sharing your thoughts 💭, this platform empowers you to contribute toward better services 💡.
+    </p>
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        if (User.Identity.Name == "admin@example.com")
+        {
+            <div class="btn-center">
+                <a class="btn btn-primary" href="/Feedbacks">View All Feedback</a>
+                <a class="btn btn-info" href="/Feedbacks/Create">Submit Feedback</a>
+            </div>
+
+            <form method="get" asp-controller="Feedbacks" asp-action="Details">
+                <div class="form-row">
+                    <input type="number" name="id" class="form-control" placeholder="Enter Feedback ID to View Details" required />
+                    <button type="submit" class="btn btn-warning">View Details</button>
+                </div>
+            </form>
+
+            <form method="get" asp-controller="Feedbacks" asp-action="Edit">
+                <div class="form-row">
+                    <input type="number" name="id" class="form-control" placeholder="Enter Feedback ID to Edit" required />
+                    <button type="submit" class="btn btn-success">Edit Feedback</button>
+                </div>
+            </form>
+
+            <form method="get" asp-controller="Feedbacks" asp-action="Delete">
+                <div class="form-row">
+                    <input type="number" name="id" class="form-control" placeholder="Enter Feedback ID to Delete" required />
+                    <button type="submit" class="btn btn-danger">Delete Feedback</button>
+                </div>
+            </form>
+        }
+        else
+        {
+            <div class="btn-center">
+                <a class="btn btn-info" href="/Feedbacks/Create">Submit Feedback</a>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="btn-center">
+            <a class="btn btn-info" href="/Feedbacks/Create">Submit Feedback</a>
+        </div>
+    }
+</div>

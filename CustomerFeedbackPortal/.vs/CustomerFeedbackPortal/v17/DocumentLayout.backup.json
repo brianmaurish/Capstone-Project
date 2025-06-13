@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|c:\\users\\admin\\source\\repos\\customerfeedbackportal\\customerfeedbackportal\\data\\customerfeedbackportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96254-E616-4872-9FA4-9EA7871CC696}|CustomerFeedbackPortal\\CustomerFeedbackPortal.csproj|solutionrelative:customerfeedbackportal\\data\\customerfeedbackportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 491,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T03:17:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:25:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T09:35:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T06:40:43.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T10:00:37.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswJwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:50:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Program.cs",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:44:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerFeedbackPortalContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Data\\CustomerFeedbackPortalContext.cs",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Data\\CustomerFeedbackPortalContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Data\\CustomerFeedbackPortalContext.cs",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Data\\CustomerFeedbackPortalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:41:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "CustomerFeedbackPortal\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CustomerFeedbackPortal\\CustomerFeedbackPortal\\Models\\Feedback.cs",
+              "RelativeToolTip": "CustomerFeedbackPortal\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:33:28.138Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
