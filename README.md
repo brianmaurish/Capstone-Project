@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [Introduction](#introduction)
-- [Key Features](#KeyFeatures)
+- [Key Features](#Key-Features)
   
 ## Introduction:
 
