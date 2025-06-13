@@ -1,36 +1,36 @@
 # CustomerFeedbackPortal
----
+
 ## Introduction:
 
 The CustomerFeedbackPortal is a lightweight web application built to collect customer feedback and allow admins to manage it efficiently.
 
 Objective: Enable customers to submit opinions, suggestions, or complaints, and provide admins with tools to view, edit, and delete feedback entries.
 
-## Key Features
+## Key Features:
 
 - Submit Feedback: Customers can submit feedback with Name, Email, Rating (1-5), and Comments.
 
 - View Feedback List: Admins can view all feedback entries in a tabular format.
 
-View Feedback Details: Admins can view details of a single feedback entry.
+- View Feedback Details: Admins can view details of a single feedback entry.
 
-Edit/Delete Feedback: Admin-only actions to edit or delete feedback entries (protected by role-based authorization).
+- Edit/Delete Feedback: Admin-only actions to edit or delete feedback entries (protected by role-based authorization).
 
-**Technologies Used**
+## Technologies Used:
 
-ASP.NET Core MVC
+- ASP.NET Core MVC
 
-Entity Framework Core (EF Core)
+- Entity Framework Core (EF Core)
 
-SQL Server
+- SQL Server
 
-Razor Views + Bootstrap
+- Razor Views + Bootstrap
 
-Azure App Service (for deployment)
+- Azure App Service (for deployment)
 
-Git (for version control)
+- Git (for version control)
 
-**Database Schema**
+## Database Schema:
 
 **Feedback Table:**
 
@@ -50,7 +50,7 @@ SubmittedOn: DateTime
 
 Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 
-**Project Setup Steps**
+## Project Setup Steps:
 
 1. Create ASP.NET Core MVC Project:
   Selected "Individual Accounts" for authentication to enable ASP.NET Core Identity.
@@ -79,61 +79,61 @@ Managed by ASP.NET Core Identity (e.g., AspNetUsers, AspNetRoles).
 8. Customize Login Page:
   Scaffolded the Login page using ApplicationDbContext.
 
-**How-to-Use**
+## How-to-Use:
 
 **Access the Application**
 
-Open the application URL.
+- Open the application URL.
 
-The Customer Feedback homepage appears, featuring Register/Login buttons, and Submit Feedback options.
+- The Customer Feedback homepage appears, featuring Register/Login buttons, and Submit Feedback options.
 
 **Register as a User**
 
-Navigate to the "Register" page (/Identity/Account/Register).
+- Navigate to the "Register" page (/Identity/Account/Register).
 
-Create a user account with an email (e.g., ben@gmail.com) and password.
+- Create a user account with an email (e.g., ben@gmail.com) and password.
 
 **Log In**
 
-Go to the "Login" page (/Identity/Account/Login).
+- Go to the "Login" page (/Identity/Account/Login).
 
-Log in using your registered email and password.
+- Log in using your registered email and password.
 
 **Submit Feedback**
 
-Navigate to the "Submit Feedback" page (/Feedback/Create).
+- Navigate to the "Submit Feedback" page (/Feedback/Create).
 
-Fill in the form
+- Fill in the form
 
-Name: Enter your name.
+- Name: Enter your name.
 
-Email: Enter your email address.
+- Email: Enter your email address.
 
-Rating: Select a rating from 1 to 5.
+- Rating: Select a rating from 1 to 5.
 
-Message: Write your feedback or comments.
+- Message: Write your feedback or comments.
 
-Click "Create" to submit the feedback.
+- Click "Create" to submit the feedback.
 
-You’ll be redirected to the feedback list page.
+- You’ll be redirected to the feedback list page.
 
 **Access Restriction for User**
 
-Users are only allowed to submit feedback.
+- Users are only allowed to submit feedback.
 
-They are restricted from viewing the list of all feedback entries, viewing individual feedback, editing feedback, and deleting feedback.
+- They are restricted from viewing the list of all feedback entries, viewing individual feedback, editing feedback, and deleting feedback.
 
 **Admin Log In**
 
-The admin can create a user account using an email (e.g., admin@example.com) and a password, and then log in with those credentials.
+- The admin can create a user account using an email (e.g., admin@example.com) and a password, and then log in with those credentials.
 
 **Viewing Feedback (Admin)**
 
-Navigate to the "Feedback List" page (/Feedback).
+- Navigate to the "Feedback List" page (/Feedback).
 
-View all feedback entries in a table with columns: Name, Email, Rating, Submitted On, and Actions (Details, Edit, Delete).
+- View all feedback entries in a table with columns: Name, Email, Rating, Submitted On, and Actions (Details, Edit, Delete).
 
-Click "Details" to view a specific feedback entry (/Feedback/Details/{id}).
+- Click "Details" to view a specific feedback entry (/Feedback/Details/{id}).
 
 **View a Single Feedback (Admin)**
 
