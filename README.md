@@ -6,11 +6,11 @@ The CustomerFeedbackPortal is a lightweight web application built to collect cus
 
 Objective: Enable customers to submit opinions, suggestions, or complaints, and provide admins with tools to view, edit, and delete feedback entries.
 
-**Key Features**
+## Key Features
 
-Submit Feedback: Customers can submit feedback with Name, Email, Rating (1-5), and Comments.
+- Submit Feedback: Customers can submit feedback with Name, Email, Rating (1-5), and Comments.
 
-View Feedback List: Admins can view all feedback entries in a tabular format.
+- View Feedback List: Admins can view all feedback entries in a tabular format.
 
 View Feedback Details: Admins can view details of a single feedback entry.
 
