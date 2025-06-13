@@ -6,7 +6,7 @@
 - [Technologies Used](#Technologies-Used)
 - [Database Schema](#Database-Schema)
 - [Project Setup Steps](#Project-Setup-Steps)
-- [Deployment to Azure App Service](#Deployment-to-Azure-App-Service)
+- [Deployment](#Deployment-to-Azure-App-Service)
 - [How-to-Use](#How-to-Use)
 - [Conclusion](#Conclusion)
   
